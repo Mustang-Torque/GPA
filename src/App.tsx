@@ -71,10 +71,10 @@ function App() {
           <div className="flex items-center justify-center gap-3 mb-3">
             <GraduationCap className="w-10 h-10 text-blue-600" />
             <h1 className="text-4xl font-bold text-slate-800">
-              Academic Performance Tracker
+              GPA Calculator
             </h1>
           </div>
-          <p className="text-slate-600 text-lg">Monitor your academic progress in real-time</p>
+          <p className="text-slate-600 text-lg"> Enter your grade and evaluate gpa</p>
         </header>
 
         <div className="mb-6">
